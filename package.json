@@ -1,0 +1,29 @@
+{
+  "name": "kubernetes-test",
+  "version": "1.0.0",
+  "description": "kube test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "kubernetes"
+  ],
+  "author": "Andrew Hanasiro",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "dependencies": {
+    "big.js": "^5.2.2",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "firebase-admin": "^6.3.0",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  }
+}
