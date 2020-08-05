@@ -21,7 +21,7 @@
     "cors": "^2.8.5",
     "csvtojson": "^2.0.8",
     "express": "^4.16.4",
-    "express-fileupload": "^1.0.0",
+    "express-fileupload": "^1.1.9",
     "firebase-admin": "^6.3.0",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
